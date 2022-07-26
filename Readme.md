@@ -1,6 +1,7 @@
-NPB-REC: Non-parametric Assessment of Uncertainty in Deep-learning-based MRI Reconstruction from Undersampled Data
+# NPB-REC: Non-parametric Assessment of Uncertainty in Deep-learning-based MRI Reconstruction from Undersampled Data
 
-Abstract 
+## Abstract 
+
 Uncertainty quantification in deep-learning (DL) based image reconstruction models is critical for reliable clinical decision making based on the reconstructed images.
 We introduce ''NPB-REC'', a non-parametric fully Bayesian framework for uncertainty assessment in MRI reconstruction from undersampled ''k-space'' data. 
 We use Stochastic gradient Langevin dynamics (SGLD) during the training phase to characterize the posterior distribution of the network weights. 
